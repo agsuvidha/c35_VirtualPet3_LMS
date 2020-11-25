@@ -1,3 +1,9 @@
-# Virtual-Pet-3
-Project-36
-### https://iambushra37.github.io/Virtual-Pet-3/
+Database Entry
+
+Food 10
+LastFed 13
+gameState Hungry
+
+Output Link
+https://agsuvidha.github.io/c35_VirtualPet3_LMS/
+
